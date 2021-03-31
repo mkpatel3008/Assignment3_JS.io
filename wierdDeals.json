@@ -1,0 +1,34 @@
+
+[
+        {
+            "productTitle" : "An inflatable cat horn",
+            "productDescription" : "You probably already think your cat is quite the unicorn, but you can easily make it official with this accessory that definitely won't get you clawed to oblivion.",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/inflatable-cat-horn.jpg",
+            "productPrice" : "6.02"
+        },
+        {   
+            "productTitle": "A Lincoln Memorial pillow",
+            "productDescription": "For some people, simply remembering your eighth grade trip to Washington D.C. isn't enough—and for those people, there's this pillow.",
+            "productImage": "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/lincoln-memorial-pillow.jpg",
+            "productPrice": "29.93"
+        },
+        {
+            "productTitle": "A hand squirrel",
+            "productDescription": "While it's all well and good to have a variety of puppets at your disposal, few things rival this strangely-realistic hand squirrel.",
+            "productImage": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/hand-squirrel.jpg",
+            "productPrice": "6.50"
+        },
+        {
+            "productTitle": "An air-blaster",
+            "productDescription": "They say this loud and terrifying thing is for fun with family and friends, but it seems better suited to enemies and nemeses.",
+            "productImage": "https://i1.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/816xGZ4QxjL._SL1500_.jpg",
+            "productPrice": "24.99"
+        },
+        {
+            "productTitle": "A zombie chocolate bunny",
+            "productDescription": "The only thing better than a chocolate Easter bunny is a chocolate Easter bunny with an insatiable thirst for blood.",
+            "productImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2018/08/zombie-chocolate-bunny.jpeg",
+            "productPrice": "45.00"
+        }
+]
+
